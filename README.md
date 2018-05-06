@@ -1,4 +1,4 @@
-# WAF-03-www.webandappfactory.WP
+# WAF03webandappfactory-WP
 A WordPress version of my personal portfolio
 
 WordPress made it quick and easy for me to put up the initial version of my personal portfolio but it wasn't what I wanted as a final product. It didn't seem appropriate for someone marketing himself as a developer.
