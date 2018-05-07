@@ -3,7 +3,7 @@ A WordPress version of my personal portfolio
 
 WordPress made it quick and easy for me to put up the initial version of my personal portfolio but it wasn't what I wanted as a final product. It didn't seem appropriate for someone marketing himself as a developer.
 
-I rewrote the website in the Spring of 2018 and retired my old WP website. But the WP site was up and active for a number of months and I did the work, so I thought I would mention it for those who may be looking for a WordPress site or for those looking to migrate from a WordPress sote.
+I rewrote the website in the Spring of 2018 and retired my old WP website. But the WP site was up and active for a number of months and I did the work, so I thought I would mention it for those who may be looking for a WordPress site or for those looking to migrate from a WordPress site.
 
 I didn't commit the files to github for a few reasons:
  * It would make for a huge repository, full of files produced by WordPress with a few custom files
